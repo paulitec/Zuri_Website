@@ -1,2 +1,3 @@
-# Zuri_Website
+# Responsive Website Design
+
 ZURI Website design
